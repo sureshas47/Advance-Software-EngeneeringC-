@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GUIAPPLICATION</name>
+    </assembly>
+    <members>
+        <member name="F:GUIAPPLICATION.Form1.xi1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yi1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.xi2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yi2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.xii1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yii1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.xii2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yii2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.xiii1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yiii1">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.xiii2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.yiii2">
+            <summary>
+            declaring variable for triangle
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1._repeatNo">
+            <summary>
+            declaring variable for repeat number
+            </summary>
+        </member>
+        <member name="F:GUIAPPLICATION.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GUIAPPLICATION.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GUIAPPLICATION.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GUIAPPLICATION.Line.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            geting value to draw line
+            
+            </summary>
+            <param name="texturestyle"></param>
+            texture for the design pattern 
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GUIAPPLICATION.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:GUIAPPLICATION.Rectangle.draw(System.Drawing.Graphics)">
+            <summary>
+            getting value of Graphics g
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GUIAPPLICATION.Rectangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            getting value in variable and use of getter setter
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GUIAPPLICATION.Shape.draw(System.Drawing.Graphics)">
+            <summary>
+            passing Graphics value
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GUIAPPLICATION.Shape.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            passing value from button click of main form to the shapes
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GUIAPPLICATION.Triangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            geting value of coordinates to draw triangle
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="T:GUIAPPLICATION.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GUIAPPLICATION.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GUIAPPLICATION.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
